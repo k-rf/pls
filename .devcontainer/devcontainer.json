@@ -1,6 +1,6 @@
 {
-  "name": "template-rust",
-  "remoteUser": "template-rust",
+  "name": "pls",
+  "remoteUser": "pls",
   "dockerComposeFile": "./compose.dev.yaml",
   "service": "app",
   "workspaceFolder": "/workspaces",
